@@ -1,1 +1,3 @@
-# Treading-Water_Animation
+# Octopus treading water Animation with OpenGL
+
+![imageOne] (OctopusTread1)
