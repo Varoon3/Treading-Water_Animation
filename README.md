@@ -3,6 +3,8 @@
 Animal geometry and animation matricies used with THREE.js library while also using glsl and the OpenGL pipeline for rendering. The aim of this project was to develop realistic wave motion simulating the treading of water.
 
 ![imageOne] (Treading-Water_Animation/OctopusTread1.gif)
+
+
 ![imageTwo] (Treading-Water_Animation/OctopusThread2.gif)
 
 ##Usage and Requirements
