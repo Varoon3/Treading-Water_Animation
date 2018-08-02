@@ -5,7 +5,7 @@ Animal geometry and animation matricies used with THREE.js library while also us
 ![gifOne] (OctopusTread1.gif)
 
 
-![gifTwo] (OctopusThread2.gif)
+![gifTwo] (Treading-Water_Animation/OctopusThread2.gif)
 
 ##Usage and Requirements
 * [Run HTML through Browser Locally](https://threejs.org/docs/#Manual/Introduction/How_to_run_things_locally)
